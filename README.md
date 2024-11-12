@@ -22,10 +22,9 @@ I'm Sarra Ben Ammar, a final-year Software Development student at **ISET** in **
 <img src="https://img.shields.io/badge/Age-21-blue" />
 
 ---
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b><br>
 <!-- Corrected the badge links for skills -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/) 
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A)](https://nodejs.org/)
