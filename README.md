@@ -1,7 +1,9 @@
-<h1 align="center"><b>Hey, I'm Sarra Ben Ammar</b>
+<h1 align="center"><b>Hey, I'm Sarra Ben Ammar</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Sarra+Ben+Ammar;Software+Developer;Passionate+About+Frontend+and+Backend+Development;Always+Learning+New+Things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Sarra+Ben+Ammar;Software+Developer;Passionate+About+Frontend+and+Backend+Development;Always+Learning+New+Things">
+  </a>
 </p>
 
 <!-- Profile image -->
@@ -15,7 +17,6 @@ I am committed to continuous learning and thrive in challenging environments. My
 
 # Let's Connect!
 
-[![Mail Badge](https://img.shields.io/badge/-SarraBenAmmar-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/SarraBenAmmar)
 [![Linkedin Badge](https://img.shields.io/badge/-SarraBenAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-ben-ammar-095029252/)
 [![Mail Badge](https://img.shields.io/badge/-SarraBenAmmar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sarrabhbam@gmail.com)
 
@@ -31,12 +32,12 @@ I am committed to continuous learning and thrive in challenging environments. My
 - **C, Java, Python, PHP, JavaScript, Dart**
 
 ### Frameworks & Tools:
-- **React, Angular, Flutter, Spring Boot, Symfony**
-- **Git, Eclipse, IntelliJ, Visual Studio Code, Android Studio**
-- **Hadoop, Power BI**
+- **React**, **Angular**, **Flutter**, **Spring Boot**, **Symfony**
+- **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Studio**
+- **Hadoop**, **Power BI**
 
 ### Databases:
-- **MySQL, MongoDB, Firebase, Oracle, H2, HBase**
+- **MySQL**, **MongoDB**, **Firebase**, **Oracle**, **H2**, **HBase**
 
 ---
 
@@ -68,14 +69,6 @@ June 2023 – February 2023
 
 ---
 
-## Languages
-
-- **English**: Fluent
-- **French**: Intermediate
-- **Arabic**: Native
-
----
-
 ## GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraBenAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
@@ -83,14 +76,25 @@ June 2023 – February 2023
 
 ---
 
-## WakaTime Stats
-
-![WakaTime Stats](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)
+### ✍️ Random Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### ✍️ Random Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Technologies & Animations
+
+<p align="center">
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
+  <!-- Angular -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="60" height="60" />
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+</p>
 
 ---
 
@@ -100,5 +104,23 @@ June 2023 – February 2023
 | ---------------------------- | ----------------------------------------------------- |
 | [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
 | [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
-| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlugbdVIcLGYqOy8UZh-3OJ81w81aUj-8VA&s" /> |
+| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" /> |
 
+---
+
+## Animated Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+Credit: [Sarra Ben Ammar](https://github.com/SarraBenAmmar)
+
+---
+
+Last Edited on: 03/09/2024
