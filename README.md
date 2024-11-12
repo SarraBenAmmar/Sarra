@@ -27,21 +27,18 @@ I'm Sarra Ben Ammar, a final-year Software Development student at **ISET** in **
 
 <!-- Corrected the badge links for skills -->
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/) 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A)](https://nodejs.org/)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=e535ab)](https://graphql.org/)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Symfony Badge](https://img.shields.io/badge/-Symfony-FF0000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 
-### Languages:
-- **C**, **Java**, **Python**, **PHP**, **JavaScript**, **Dart**
 
-### Frameworks & Tools:
-- **React**, **Angular**, **Flutter**, **Spring Boot**, **Symfony**
-- **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Studio**
-- **Hadoop**, **Power BI**
-
-### Databases:
-- **MySQL**, **MongoDB**, **Firebase**, **Oracle**, **H2**, **HBase**
 
 ---
 
