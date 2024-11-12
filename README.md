@@ -27,7 +27,11 @@ I am committed to continuous learning and thrive in challenging environments. My
 ---
 
 ## Skills
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 ### Languages:
 - **C, Java, Python, PHP, JavaScript, Dart**
 
@@ -35,6 +39,7 @@ I am committed to continuous learning and thrive in challenging environments. My
 - **React**, **Angular**, **Flutter**, **Spring Boot**, **Symfony**
 - **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Studio**
 - **Hadoop**, **Power BI**
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Databases:
 - **MySQL**, **MongoDB**, **Firebase**, **Oracle**, **H2**, **HBase**
@@ -114,7 +119,9 @@ June 2023 – February 2023
 
 ## Let's Stay Connected
 
-| Language of Choice           | Flags                                                 |
-| ---------------------------- | ----------------------------------------------------- |
-| [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
-| [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
+| Choose your language           | Flags                                                                                                              |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [EN-US](./README.md)       | <img width="15%" alt="USA Flag" title="United States Flag" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
+| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="France Flag" title="France Flag" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" />        |
+| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Saudi Flag" title="Saudi Arabia Flag" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" />        |
+
