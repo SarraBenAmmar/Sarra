@@ -76,9 +76,9 @@ June 2023 – February 2023
 ## GitHub Stats
 <!-- Fixed the GitHub stats API and adjusted layout -->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraBenAmmar&show_icons=true&locale=en&layout=compact&langs_count=10&theme=algolia)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarraBenAmmar&show_icons=true&theme=radical)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraBenAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarraBenAmmar&show_icons=true&theme=radical)
 ---
 
 ### ✍️ Random Developer Quote
