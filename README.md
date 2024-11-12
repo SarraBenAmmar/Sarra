@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hey, I'm Sarra Ben Ammar</b><!--><img src="https://example.com/hijab-anime-girl.jpg" width="35" alt="Hijab Anime Girl"></h1>
+<h1 align="center"><b>Hey, I'm Sarra Ben Ammar</b>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Sarra+Ben+Ammar;Software+Developer;Passionate+About+Frontend+and+Backend+Development;Always+Learning+New+Things"></a>
 </p>
 
 <!-- Profile image -->
-<img title="My Avatar" align="left" src="https://img.freepik.com/premium-photo/beautiful-hijab-women-hand-drawn-illustration_705652-931.jpg" width="500px" alt="Sarra Ben Ammar">
+<img title="My Avatar" align="left" src="https://img.freepik.com/premium-photo/beautiful-hijab-women-hand-drawn-illustration_705652-931.jpg" width="350px" alt="Sarra Ben Ammar">
 
 **About me**
 
@@ -16,8 +16,7 @@ I am committed to continuous learning and thrive in challenging environments. My
 # Let's Connect!
 
 [![Mail Badge](https://img.shields.io/badge/-SarraBenAmmar-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/SarraBenAmmar)
-[![Linkedin Badge](https://img.shields.io/badge/-SarraBenAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-ben-ammar/)
-[![Instagram Badge](https://img.shields.io/badge/-SarraBenAmmar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sarrabenammar/)
+[![Linkedin Badge](https://img.shields.io/badge/-SarraBenAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-ben-ammar-095029252/)
 [![Mail Badge](https://img.shields.io/badge/-SarraBenAmmar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sarrabhbam@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/SarraBenAmmar?style=social)
@@ -101,5 +100,5 @@ June 2023 – February 2023
 | ---------------------------- | ----------------------------------------------------- |
 | [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
 | [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
-| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" /> |
+| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlugbdVIcLGYqOy8UZh-3OJ81w81aUj-8VA&s" /> |
 
