@@ -73,7 +73,7 @@ June 2023 – February 2023
 ---
 
 ## GitHub Stats
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraBenAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarraBenAmmar&show_icons=true&theme=radical)
 
@@ -84,37 +84,6 @@ June 2023 – February 2023
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
-
----
-
-## Animated Tech Logos
-
-<p align="center">
-  <!-- React -->
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  </a>
-  <!-- Angular -->
-  <a href="https://angular.io/">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="60" height="60"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://www.javascript.com/">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  </a>
-  <!-- Dart -->
-  <a href="https://dart.dev/">
-    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
-  </a>
-</p>
 
 ---
 
