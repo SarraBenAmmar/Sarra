@@ -36,4 +36,78 @@ I'm Sarra Ben Ammar, a final-year Software Development student at **ISET** in **
 
 ### Frameworks & Tools:
 - **React**, **Angular**, **Flutter**, **Spring Boot**, **Symfony**
-- **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Stu
+- **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Studio**
+- **Hadoop**, **Power BI**
+
+### Databases:
+- **MySQL**, **MongoDB**, **Firebase**, **Oracle**, **H2**, **HBase**
+
+---
+
+## Education
+
+**Software Development Bachelor’s Degree**  
+2022 – Present  
+- Final year of Software Development with a specialization in **software engineering** and **application development**.  
+- Mastery of advanced programming concepts and application development.
+
+**Scientific Baccalaureate**  
+2021 – 2022  
+- Strong foundation in analytical thinking and problem-solving.
+
+---
+
+## Experience
+
+**Whitecap Technologies (Internship)**  
+June 2024 – February 2024  
+- Developed a full-fledged social media application from scratch.  
+- Designed intuitive user interfaces and managed the project end-to-end.  
+- Collaborated with a team throughout the software development cycle, from planning to delivery.
+
+**Topnet (Internship)**  
+June 2023 – February 2023  
+- Gained in-depth knowledge of networking fundamentals, including subnetting and IP addressing.  
+- Worked on configuring and managing network devices.
+
+---
+
+## GitHub Stats
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraBenAmmar&show_icons=true&locale=en&layout=compact&langs_count=10&theme=algolia)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarraBenAmmar&show_icons=true&theme=radical)
+
+---
+
+### ✍️ Random Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## GitHub Streak & Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarraBenAmmar&theme=algolia" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarraBenAmmar&theme=react" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## Let's Stay Connected
+
+| Language of Choice           | Flags                                                 |
+| ---------------------------- | ----------------------------------------------------- |
+| [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
+| [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
+| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" /> |
+
+---
+
+Credit: [Sarra Ben Ammar](https://github.com/SarraBenAmmar)
+
+---
+
+Last Edited on: 03/09/2024
