@@ -81,19 +81,33 @@ June 2023 – February 2023
 
 ---
 
-## Technologies & Animations
+## Animated Tech Logos
 
 <p align="center">
   <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  </a>
   <!-- Angular -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="60" height="60" />
+  <a href="https://angular.io/">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="60" height="60"/>
+  </a>
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  </a>
   <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+  <a href="https://www.javascript.com/">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  </a>
   <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  </a>
+  <!-- Dart -->
+  <a href="https://dart.dev/">
+    <img src="https://raw.githubusercontent.com/DenverCoder1/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
+  </a>
 </p>
 
 ---
@@ -104,23 +118,3 @@ June 2023 – February 2023
 | ---------------------------- | ----------------------------------------------------- |
 | [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
 | [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
-| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" /> |
-
----
-
-## Animated Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-Credit: [Sarra Ben Ammar](https://github.com/SarraBenAmmar)
-
----
-
-Last Edited on: 03/09/2024
