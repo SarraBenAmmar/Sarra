@@ -22,10 +22,10 @@ I'm Sarra Ben Ammar, a final-year Software Development student at **ISET** in **
 <img src="https://img.shields.io/badge/Age-21-blue" />
 
 ---
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
 
 <!-- Corrected the badge links for skills -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+<br>
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/) 
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A)](https://nodejs.org/)
@@ -101,7 +101,7 @@ June 2023 – February 2023
 | ---------------------------- | ----------------------------------------------------- |
 | [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
 | [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
-| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" /> |
+| [AR-TN](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Tunisia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/640px-Flag_of_Tunisia.svg.png" /> |
 
 ---
 
