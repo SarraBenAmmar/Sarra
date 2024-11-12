@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hey, I'm Sarra Ben Ammar</b><img src="https://example.com/hijab-anime-girl.jpg" width="35" alt="Hijab Anime Girl"></h1>
+<h1 align="center"><b>Hey, I'm Sarra Ben Ammar</b><!--><img src="https://example.com/hijab-anime-girl.jpg" width="35" alt="Hijab Anime Girl"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Sarra+Ben+Ammar;Software+Developer;Passionate+About+Frontend+and+Backend+Development;Always+Learning+New+Things"></a>
 </p>
 
 <!-- Profile image -->
-<img title="My Avatar" align="left" src="https://example.com/your-avatar-image.jpg" width="500px" alt="Sarra Ben Ammar">
+<img title="My Avatar" align="left" src="https://img.freepik.com/premium-photo/beautiful-hijab-women-hand-drawn-illustration_705652-931.jpg" width="500px" alt="Sarra Ben Ammar">
 
 **About me**
 
