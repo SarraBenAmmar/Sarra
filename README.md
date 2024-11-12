@@ -81,6 +81,9 @@ June 2023 – February 2023
 
 ### ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
 
 ---
 
