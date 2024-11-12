@@ -23,82 +23,17 @@ I'm Sarra Ben Ammar, a final-year Software Development student at **ISET** in **
 
 ---
 
-<!-- Skills  -->
-
-
-<!-- TODO: Make technologies links takes you to repositories -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Languages:
 - **C**, **Java**, **Python**, **PHP**, **JavaScript**, **Dart**
 
 ### Frameworks & Tools:
 - **React**, **Angular**, **Flutter**, **Spring Boot**, **Symfony**
-- **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Studio**
-- **Hadoop**, **Power BI**
-
-### Databases:
-- **MySQL**, **MongoDB**, **Firebase**, **Oracle**, **H2**, **HBase**
-
----
-
-## Education
-
-**Software Development Bachelor’s Degree**  
-2022 – Present  
-- Final year of Software Development with a specialization in **software engineering** and **application development**.  
-- Mastery of advanced programming concepts and application development.
-
-**Scientific Baccalaureate**  
-2021 – 2022  
-- Strong foundation in analytical thinking and problem-solving.
-
----
-
-## Experience
-
-**Whitecap Technologies (Internship)**  
-June 2024 – February 2024  
-- Developed a full-fledged social media application from scratch.  
-- Designed intuitive user interfaces and managed the project end-to-end.  
-- Collaborated with a team throughout the software development cycle, from planning to delivery.
-
-**Topnet (Internship)**  
-June 2023 – February 2023  
-- Gained in-depth knowledge of networking fundamentals, including subnetting and IP addressing.  
-- Worked on configuring and managing network devices.
-
----
-
-## GitHub Stats
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SarraBenAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarraBenAmmar&show_icons=true&theme=radical)
-
----
-
-### ✍️ Random Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
-
----
-
-## Let's Stay Connected
-
-| Language of Choice           | Flags                                                 |
-| ---------------------------- | ----------------------------------------------------- |
-| [EN-US](./README.md)          | <img width="15%" alt="United States Flag" title="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" /> |
-| [FR-FRA](./README-FR-FRA.md)  | <img width="15%" alt="France Flag" title="France" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" /> |
-| [AR-SA](./README-AR-SA.md)    | <img width="15%" alt="Saudi Arabia Flag" title="Saudi Arabia" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Saudi_Arabia.svg" /> |
-
----
-
-Credit: [Sarra Ben Ammar](https://github.com/SarraBenAmmar)
-
----
-
-Last Edited on: 03/09/2024
+- **Git**, **Eclipse**, **IntelliJ**, **Visual Studio Code**, **Android Stu
